@@ -1,0 +1,142 @@
+nav{
+    background-color: red;
+    padding: 5px;
+    border: 2px solid black;
+}
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+}
+nav ul li{
+        list-style-type: none;
+        background-color: red;
+        display: inline;
+        padding: 15px;
+        margin: 5px;
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 10px;
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+nav ul li:hover{
+    background-color: rgb(117, 117, 117);
+}
+header{
+    background-color: red;
+}
+body{
+    font-family: Verdana;
+}
+footer{
+    background-color: red;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+footer ul li{
+    list-style-type: none;
+        background-color: red;
+        display: inline;
+        padding: 15px;
+        margin: 5px;
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 10px;
+}
+footer ul li a{
+    color: black;
+    text-decoration: none;
+}
+footer ul li:hover{
+    background-color: rgb(117, 117, 117);
+}
+article{
+    background-color: red;
+    color: solid black;
+    text-align: left;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+.videoContent {
+    border: 2px solid black;
+    max-height: 450px;
+    min-height: 450px;
+    overflow: auto;
+    text-align: center;
+}
+.videoText{
+    color: solid black;
+    text-align: left;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+.history{
+    color: solid black;
+    text-align: left;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+.title{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 15px;
+    color: solid black;
+    background-color: red;
+    text-align: center;
+}
+.table{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 15px;
+    color: solid black;
+    background-color: red;
+}
+th,td,tr{
+    border: 2px solid black;
+    text-align: center;
+}
+.history2{
+    color: solid black;
+    text-align: left;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+img{
+    border: 2px solid black;
+}
+.videoDec{
+    border: 2px solid black;
+}
+.teamPhoto{
+    text-align: center;
+    border: 5px solid black;
+    margin: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: red;
+}
+.teamPhoto2{
+    text-align: center;
+    background-color: red;
+}
+.teamPhoto3{
+    text-align: left;
+    border: 2px solid black;
+}
